@@ -17,10 +17,12 @@
   * English
 
 # Contact
-  * Facebook : [Thanat Atom]()
+  * Facebook : [Thanat Atom](https://web.facebook.com/atom.pungdokmai)
 
   * Line Id : 14582ormsin
 
-  * github : [Atomute]()
+  * github : [Atomute](https://web.facebook.com/atom.pungdokmai)
 
   * E-mail : thabnatatom@gmail.com
+
+  * Num : 0968598513
