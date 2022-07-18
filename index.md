@@ -21,7 +21,7 @@
 
   * Line Id : 14582ormsin
 
-  * github : [Atomute](https://web.facebook.com/atom.pungdokmai)
+  * github : [Atomute](https://github.com/Atomute)
 
   * E-mail : thabnatatom@gmail.com
 
