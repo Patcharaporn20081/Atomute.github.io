@@ -27,4 +27,4 @@
 
   * Num : 0968598513
 
-* ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") wowow
+* ![alt text](https://github.com/Atomute/Thanat.github.io/blob/gh-pages/img/Player.png "Logo Title Text 1") wowow
