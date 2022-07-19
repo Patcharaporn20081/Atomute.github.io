@@ -27,4 +27,4 @@
 
   * Num : 0968598513
 
-<img src="/img/player.png" alt="alt text" title="image Title" />
+<img src="img/player.png" alt="alt text" title="image Title" />
