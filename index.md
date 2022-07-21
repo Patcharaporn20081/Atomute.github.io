@@ -1,7 +1,7 @@
-<p style="text-indent:40px;">Hi my name is Thanat Puangdokmai or you can call me Atom,I'm 18 years old.I study computer engineering at KMUTNB for 2 years now.I hope you get to know me better via this page!!</p>
+<div style="text-indent: 40px;">Hello my name is Thanat Puangdokmai or you can call me Atom,I'm 18 years old.I study computer engineering at KMUTNB for 2 years now.I hope you get to know me better via this page!!</div>
 
 # Interests
-I open up to learning new things.I always find something new to learn like coding languages that I've never used before or learning oher skill like singing ,drawing and more.So,I'd say that I have no interest in particular yet.
+<div style="text-indent: 40px;">I open up to learning new things.I always find something new to learn like coding languages that I've never used before or learning oher skill like singing ,drawing and more.So,I'd say that I have no interest in particular yet.</div>
 
 # Experience
   * making and designing mobile application using Flutter
