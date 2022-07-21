@@ -1,11 +1,4 @@
-<h1 style="margin-top: 0px;
-    margin-bottom: 10px;
-    font-family: sans-serif;
-    font-size: 4rem;
-    background: linear-gradient(to right, #ef5350, #f48fb1, #7e57c2, #2196f3, #26c6da, #43a047, #eeff41, #f9a825, #ff5722);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;">AtomNaHee</h1>
-Hi my name is Thanat Puangdokmai or you can call me Atom,I'm 18 years old.I study computer engineering at KMUTNB for 2 years now.I hope you get to know me better via this page!!
+<p>     Hi my name is Thanat Puangdokmai or you can call me Atom,I'm 18 years old.I study computer engineering at KMUTNB for 2 years now.I hope you get to know me better via this page!!</p>
 
 # Experience
   * making and designing mobile application using Flutter
@@ -34,4 +27,3 @@ Hi my name is Thanat Puangdokmai or you can call me Atom,I'm 18 years old.I stud
 
   * Num : 0968598513
 
-* ![alt text](https://github.com/Atomute/Thanat.github.io/blob/gh-pages/img/Player.png "Logo Title Text 1") wowow
