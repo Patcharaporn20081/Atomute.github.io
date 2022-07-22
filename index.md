@@ -24,5 +24,3 @@
 
   * E-mail : thabnatatom@gmail.com
 
-  * Num : 0968598513
-
