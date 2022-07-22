@@ -1,3 +1,4 @@
+<img src="https://github.com/Atomute/Thanat.github.io/blob/gh-pages/img/111AD316-050A-49FF-AA9E-72BE544BB2C2.jpeg" alt="mypic">
 <div style="text-indent: 40px;">Hello my name is Thanat Puangdokmai or you can call me Atom,I'm 18 years old.I study computer engineering at KMUTNB for 2 years now.I hope you get to know me better via this page!!</div>
 
 # Interests
