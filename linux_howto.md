@@ -1,8 +1,8 @@
-Let's me show you how I install Window Subsystem for Linux(WSL2).WSL provide you with a useful Linux tools. Also thanks to [Pureinfotech](https://www.youtube.com/c/Pureinfotech) that make the video tutorial of how to do all of this. You can check out his video down below.
+Let's me show you how I install Window Subsystem for Linux(WSL2).WSL provide you with a useful Linux tools. Also thanks to [Pureinfotech](https://www.youtube.com/c/Pureinfotech) that make the video tutorial of how to do all of this. You can check out his video here.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=n-J9438Mv-s&t=184
-" target="_blank"><img src="http://img.youtube.com/vi/n-J9438Mv-s&t=184/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe>
 
 # See the distribution that suit you the most.
 Linux come with many distribution or Distros. Picture below is some of them go check it yourself. I chose to install Kali linux because I heard it use for hacking and that sound really cool!
