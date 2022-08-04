@@ -12,12 +12,25 @@ Search for "Turn Window features on or off". Look for "Window subsystem for Linu
 ![distros sample](https://cdn.discordapp.com/attachments/717596102194364490/1004411286559404083/unknown.png)
  
 # Download wsl package
-First you have to install wsl package to youe computer. I download it from this link https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi. Or you can just open your terminal and type "wsl --install". You will have to reboot your computer either ways.
+First you have to install wsl package to youe computer. I download it from this link https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi. Or you can just open your terminal and type "wsl --install". You will have to reboot your computer either ways. You can check your wsl version by running this command.
+```
+ $ wsl -v
+```
+If your wsl is not on version 2 you may want to update it by running this command.
+```
+ $ wsl --update
+```
 
 # Download linux distros you want 
-First thing first you have to check your wsl version by type "wsl -v" on your terminal if it not vesion 2 you may want to update it by type "wsl --update". There are two ways to download linux distro for wsl (I just know two).
+ There are two ways to download linux distro for wsl (I just know two).
   * First is to download it via microsoft store. Just search linux in microsoft store, and find the one that you want and download it.(I downloaded it this way)
-  * Second is through command line in your terminal. Type "wsl -l --online" and bam a list of distros that you can download are lying there. Type "wsl --install -d <Distro>".
+  * Second is through command line in your terminal. Type 
+ ```
+  $ wsl -l --online
+ ```
+and bam a list of distros that you can download are lying there.
+![distros list](
+Type "wsl --install -d DISTRO NAME".
   
 # Set up your Linux
 After you downloaded it the linux distro that you download will pop up automatically,you will have to set your name and password. And it's done!
