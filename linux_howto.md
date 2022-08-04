@@ -8,8 +8,6 @@ Linux come with many distribution or Distros. Picture below is some of them go c
 # Enable the window feature
 Search for "Turn Window features on or off". Look for "Window subsystem for Linux" and "Virtual Machine Platform" then tick both of them,click ok. This will enable wsl features of your computer and you will have to restart.
 ![distros sample](https://cdn.discordapp.com/attachments/717596102194364490/1004411286559404083/unknown.png)
-<img src="https://github.com/Atomute/Thanat.github.io/blob/gh-pages/img/window_feature.png"
- alt="Distros image">
  
 # Download wsl package
 First you have to install wsl package to youe computer. I download it from this link https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi. Or you can just open your terminal and type "wsl --install". You will have to reboot your computer either ways.
