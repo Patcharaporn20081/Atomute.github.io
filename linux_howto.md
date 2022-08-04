@@ -14,11 +14,11 @@ Search for "Turn Window features on or off". Look for "Window subsystem for Linu
 # Download wsl package
 First you have to install wsl package to youe computer. I download it from this link https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi. Or you can just open your terminal and type "wsl --install". You will have to reboot your computer either ways. You can check your wsl version by running this command.
 ```
- $ wsl -v
+ wsl -v
 ```
 If your wsl is not on version 2 you may want to update it by running this command.
 ```
- $ wsl --update
+ wsl --update
 ```
 
 # Download linux distros you want 
@@ -26,13 +26,13 @@ If your wsl is not on version 2 you may want to update it by running this comman
   * First is to download it via microsoft store. Just search linux in microsoft store, and find the one that you want and download it.(I downloaded it this way)
   * Second is through command line in your terminal,type 
  ```
-  $ wsl -l --online
+  wsl -l --online
  ```
-and bam a list of distros that you can download are lying there.
+and bam a list of distros that you can download are lying there.  
 ![distros list](https://cdn.discordapp.com/attachments/717596102194364490/1004435393908850828/unknown.png)<br>
 Type
 ```
-"wsl --install -d DISTRO NAME".
+ wsl --install -d DISTRO NAME
 ```
 
 # Set up your Linux
