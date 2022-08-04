@@ -1,4 +1,6 @@
-Let's me show you how I install Window Subsystem for Linux(WSL2).WSL provide you with a useful Linux tools. Also thanks to [Pureinfotech](https://www.youtube.com/c/Pureinfotech) that make the video tutorial of how to do all of this. You can check out his video here.
+[<-- HOME PAGE](index.md)
+
+Let's me show you how I install Window Subsystem for Linux(WSL2).WSL provide you with a useful Linux tools. Also thanks to [Pureinfotech](https://www.youtube.com/c/Pureinfotech) that make the video tutorial of how to do all of this. You can check out his video down below.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n-J9438Mv-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
