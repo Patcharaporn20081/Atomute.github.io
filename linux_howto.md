@@ -29,7 +29,7 @@ If your wsl is not on version 2 you may want to update it by running this comman
   $ wsl -l --online
  ```
 and bam a list of distros that you can download are lying there.
-![distros list](https://cdn.discordapp.com/attachments/717596102194364490/1004435393908850828/unknown.png)
+![distros list](https://cdn.discordapp.com/attachments/717596102194364490/1004435393908850828/unknown.png)<br>
 Type
 ```
 "wsl --install -d DISTRO NAME".
